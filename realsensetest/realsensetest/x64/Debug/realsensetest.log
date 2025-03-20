@@ -1,0 +1,11 @@
+﻿  helloword.cpp
+c:\users\xin\documents\visual studio 2015\projects\realsensetest\realsensetest\helloword.cpp(96): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsensetest\realsensetest\helloword.cpp(97): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsensetest\realsensetest\helloword.cpp(99): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsensetest\realsensetest\helloword.cpp(146): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsensetest\realsensetest\helloword.cpp(147): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsensetest\realsensetest\helloword.cpp(138): warning C4101: “upoint”: 未引用的局部变量
+  realsensetest.vcxproj -> C:\Users\xin\Documents\Visual Studio 2015\Projects\realsensetest\x64\Debug\realsensetest.exe
+  realsensetest.vcxproj -> C:\Users\xin\Documents\Visual Studio 2015\Projects\realsensetest\x64\Debug\realsensetest.pdb (Full PDB)
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\bin\x64\realsense2.dll
+  复制了 1 个文件
